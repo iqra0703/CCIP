@@ -1,4 +1,4 @@
-Version: 2.1
+version: 2.1
 #Define the jobs we want to run for this projectjobs:
 jobs:
  build:
